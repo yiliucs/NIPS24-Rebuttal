@@ -1,7 +1,5 @@
 # NeurIPS24-Rebuttal
 
-# New Results for Reviewer Lbk8 and Reviewer TJzH
-
 W1:
 
 ## USC Dataset
