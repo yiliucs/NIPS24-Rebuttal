@@ -6,15 +6,15 @@ W1:
 
 ## USC Dataset
 
-![fig 1](https://github.com/yiliucs/NIPS24-Rebuttal/blob/main/USC.pdf)
+![fig 1](https://github.com/yiliucs/NIPS24-Rebuttal/blob/main/USC.png)
 
 ## MHAD Dataset
 
-![fig 2](https://github.com/yiliucs/NIPS24-Rebuttal/blob/main/MHAD.pdf)
+![fig 2](https://github.com/yiliucs/NIPS24-Rebuttal/blob/main/MHAD.pnd)
 
 ## CMHAD Dataset
 
-![fig 3](https://github.com/yiliucs/NIPS24-Rebuttal/blob/main/CMHAD.pdf)
+![fig 3](https://github.com/yiliucs/NIPS24-Rebuttal/blob/main/CMHAD.png)
 
 ## Data Distribution
 
