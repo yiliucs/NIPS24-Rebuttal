@@ -10,7 +10,7 @@ W1:
 
 ## MHAD Dataset
 
-![fig 2](https://github.com/yiliucs/NIPS24-Rebuttal/blob/main/MHAD.pnd)
+![fig 2](https://github.com/yiliucs/NIPS24-Rebuttal/blob/main/MHAD.png)
 
 ## CMHAD Dataset
 
